@@ -1,0 +1,119 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BeeHeard Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 0 20px;
+            line-height: 1.6;
+            color: #222;
+        }
+        h1, h2 {
+            color: #444;
+        }
+    </style>
+</head>
+<body>
+
+<h1>BeeHeard Privacy Policy</h1>
+
+<p><strong>Last updated:</strong> August 2026</p>
+
+<p>
+BeeHeard is a voice training game that helps users practice and improve their ability to hold vocal tones. 
+This privacy policy explains how information is handled when using the BeeHeard application.
+</p>
+
+<h2>1. Data Processing</h2>
+
+<p>
+BeeHeard is designed to work locally on your device. 
+The application does not require an account, registration, or login.
+</p>
+
+<p>
+BeeHeard does not upload, store, or transmit your voice recordings or personal information to external servers.
+</p>
+
+<h2>2. Microphone Usage</h2>
+
+<p>
+BeeHeard requires microphone access during voice training sessions.
+The microphone is used only to analyze your voice in real time, including characteristics such as pitch and loudness, to provide feedback and control the gameplay.
+</p>
+
+<p>
+Audio recordings are not created, stored, or shared. Voice data is processed locally on your device and discarded after processing.
+</p>
+
+<h2>3. Locally Stored Data</h2>
+
+<p>
+BeeHeard stores certain information locally on your device, including:
+</p>
+
+<ul>
+    <li>Training statistics</li>
+    <li>Game progress</li>
+    <li>Application settings</li>
+    <li>Premium purchase status</li>
+</ul>
+
+<p>
+This data remains on your device and is not transmitted to BeeHeard or any third party.
+You can delete locally stored data at any time by clearing the application data or uninstalling the application.
+</p>
+
+<h2>4. In-App Purchases</h2>
+
+<p>
+BeeHeard uses Google Play Billing for optional in-app purchases.
+Payment processing is handled entirely by Google Play. 
+BeeHeard does not receive or store payment information such as credit card details.
+</p>
+
+<h2>5. Third-Party Services</h2>
+
+<p>
+BeeHeard does not use analytics services, advertising services, tracking technologies, or external data collection services.
+</p>
+
+<h2>6. Data Sharing</h2>
+
+<p>
+BeeHeard does not sell, share, or transfer personal information to third parties.
+</p>
+
+<h2>7. Children's Privacy</h2>
+
+<p>
+BeeHeard does not knowingly collect personal information from children.
+Since no personal information is collected or transmitted, the application does not create user profiles or online accounts.
+</p>
+
+<h2>8. Changes to This Privacy Policy</h2>
+
+<p>
+This privacy policy may be updated from time to time. 
+Any changes will be published on this page with an updated revision date.
+</p>
+
+<h2>9. Contact</h2>
+
+<p>
+If you have questions about this privacy policy, please contact:
+</p>
+
+<p>
+Email: olabz.infos@gmail.com
+</p>
+
+</body>
+</html>
+```
